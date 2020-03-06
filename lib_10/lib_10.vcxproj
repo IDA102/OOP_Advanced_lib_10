@@ -130,6 +130,9 @@
     <ClCompile Include="lib_10.cpp" />
     <ClCompile Include="Point.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

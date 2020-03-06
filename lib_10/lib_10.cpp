@@ -1,7 +1,4 @@
-﻿
-// Iter_Alg.cpp : Defines the entry point for the console application.
-//
-//Итераторы. Стандартные алгоритмы. Предикаты.
+﻿//Итераторы. Стандартные алгоритмы. Предикаты.
 #include"H.h"
 //Вывод пары в поток
 ostream& operator<<(ostream& os, pair<string, int> ms)
